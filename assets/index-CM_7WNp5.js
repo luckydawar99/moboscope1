@@ -21695,7 +21695,7 @@ function X1() {
                             "data-loc": "client/src/pages/Home.tsx:190",
                             className: "text-sm font-semibold text-accent mt-4",
                             children:
-                              "Premium vanity numbers have genuine market demand",
+                              "Premium Moboscope numbers have genuine market demand",
                           }),
                         ],
                       }),
@@ -21938,7 +21938,7 @@ function X1() {
                             "data-loc": "client/src/pages/Home.tsx:292",
                             className: "text-foreground/70 text-sm",
                             children:
-                              "Get real-time market insights based on rarity, demand, and comparable vanity numbers.",
+                              "Get real-time market insights based on rarity, demand, and comparable Moboscope numbers.",
                           }),
                         ],
                       }),
@@ -22075,7 +22075,7 @@ function X1() {
                         "data-loc": "client/src/pages/Home.tsx:338",
                         className: "text-foreground/70 mb-4",
                         children:
-                          "Vanity numbers have real market demand, similar to premium domain names.",
+                          "Moboscope numbers have real market demand, similar to premium domain names.",
                       }),
                       g.jsx("p", {
                         "data-loc": "client/src/pages/Home.tsx:341",
@@ -22378,7 +22378,7 @@ function X1() {
                       children: g.jsx("p", {
                         "data-loc": "client/src/pages/Home.tsx:442",
                         className: "text-center font-semibold text-primary",
-                        children: "✓ Highly desirable vanity number",
+                        children: "✓ Highly desirable Moboscope number",
                       }),
                     }),
                   ],
@@ -22425,7 +22425,7 @@ function X1() {
                   "data-loc": "client/src/pages/Home.tsx:469",
                   className: "text-lg text-foreground/70 mb-8",
                   children:
-                    "Connect buyers and sellers of premium vanity numbers. List your valuable number, set your price, and start receiving offers from interested buyers.",
+                    "Connect buyers and sellers of premium Moboscope numbers. List your valuable number, set your price, and start receiving offers from interested buyers.",
                 }),
                 g.jsxs("div", {
                   "data-loc": "client/src/pages/Home.tsx:473",
